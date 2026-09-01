@@ -68,7 +68,7 @@ Guess the number: 37
 
 Congratulations!!! You guessed the number.
 
-You needed "attempt(s)" 
+You needed 37 attempts.
 ```
 
 ## Project Structure
