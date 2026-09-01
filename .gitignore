@@ -1,0 +1,11 @@
+# Compiled files
+main
+*.o
+*.exe
+*.out
+
+# VS Code
+.vscode/
+
+# Other
+*.log
