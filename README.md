@@ -66,7 +66,7 @@ Too low! Try again.
 
 Guess the number: 37
 
-Congratulations! You guessed the number.
+Congratulations!!! You guessed the number.
 ```
 
 ## Project Structure
