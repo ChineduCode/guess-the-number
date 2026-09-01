@@ -66,7 +66,7 @@ Too low! Try again.
 
 Guess the number: 37
 
-Congratulations!!! You guessed the number.
+Congratulations, 37 is the correct number
 
 You needed 37 attempts.
 ```
